@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "320772406833",
+    "firebase_url": "https://mombasatwoone-147f6.firebaseio.com",
+    "project_id": "mombasatwoone-147f6",
+    "storage_bucket": "mombasatwoone-147f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320772406833:android:6fe3a4e755be3260409f10",
+        "android_client_info": {
+          "package_name": "com.megatronkenya.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320772406833-f9c6o1mbqa50r703iush923nlvq4t23g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megatronkenya.firebaseapp",
+            "certificate_hash": "062f8468e4331a144abf48b3ca53981ec4d2d096"
+          }
+        },
+        {
+          "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKq0sJuj4S4y_nXS-ye8K0lypjWO6Xy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320772406833:android:79479642342d7c23409f10",
+        "android_client_info": {
+          "package_name": "com.megatronkenya.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320772406833-4ea58aj1f6vba94smp5slumltir54qnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megatronkenya.firebaseapplication",
+            "certificate_hash": "062f8468e4331a144abf48b3ca53981ec4d2d096"
+          }
+        },
+        {
+          "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKq0sJuj4S4y_nXS-ye8K0lypjWO6Xy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320772406833:android:3d6ad8a5690b8f5b409f10",
+        "android_client_info": {
+          "package_name": "com.megatronkenya.firebaseemailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320772406833-ilvmfu16nshs13ua17olvi1f05oee7a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megatronkenya.firebaseemailauth",
+            "certificate_hash": "062f8468e4331a144abf48b3ca53981ec4d2d096"
+          }
+        },
+        {
+          "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKq0sJuj4S4y_nXS-ye8K0lypjWO6Xy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320772406833:android:0845f8ad834608e1409f10",
+        "android_client_info": {
+          "package_name": "com.megatronkenya.firebaseemailauthandverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320772406833-47c0ug3nkpgqkolba5l775i0n9993ugu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megatronkenya.firebaseemailauthandverification",
+            "certificate_hash": "062f8468e4331a144abf48b3ca53981ec4d2d096"
+          }
+        },
+        {
+          "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKq0sJuj4S4y_nXS-ye8K0lypjWO6Xy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320772406833:android:e78d6592d1c3f788",
+        "android_client_info": {
+          "package_name": "com.megatronkenya.mombasatwoone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320772406833-rs4sfo2et4je2u7p0artdlomibf45hna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megatronkenya.mombasatwoone",
+            "certificate_hash": "062f8468e4331a144abf48b3ca53981ec4d2d096"
+          }
+        },
+        {
+          "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKq0sJuj4S4y_nXS-ye8K0lypjWO6Xy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320772406833-a4orsvleqpskf2psc663fit1fo9m3vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
