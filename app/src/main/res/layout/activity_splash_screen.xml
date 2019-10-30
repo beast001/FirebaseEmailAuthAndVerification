@@ -21,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/progress_bar"
-        style="@style/Widget.AppCompat.ActionBar"
+        style="?android:attr/progressBarStyleHorizontal"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="20dp"/>
 
